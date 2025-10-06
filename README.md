@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Ivan Popov
+# 👋 Hi, I'm Christian Dimitrov
 
 💻 **Python Developer** passionate about building efficient, scalable web and automation projects.  
 🌱 Currently learning: **FastAPI**, **React**, and **Docker**.  
