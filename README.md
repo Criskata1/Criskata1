@@ -18,4 +18,4 @@
 
 ### 📫 Connect with me
 - 📧 Email: kriskodim95@gmail.com 
-- 💼 [LinkedIn]([https://linkedin.com/in/ivanpopov](https://www.linkedin.com/in/christian-dimitrov-b83b11283/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/christian-dimitrov-b83b11283/)
